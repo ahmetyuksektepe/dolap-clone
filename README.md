@@ -1,4 +1,4 @@
-# quasar-todo (ahmetfarukyuksektepe)
+# Dolap Clone
 
 A Quasar Project
 
